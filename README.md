@@ -9,6 +9,6 @@ Object Detection을 사용하여 영상에서 사람이 입은 옷을 탐지하�
 * JavaScript
 * OpenCV(Pytorch, YOLO)
 ## :books: Project Status
-:heavy_check_mark: Fashion Data set labeling 
-:heavy_check_mark: YOLO Dig Up
-:heavy_check_mark: GNN, CNN modeling
+:heavy_check_mark: Fashion Data set labeling<br>
+:heavy_check_mark: YOLO Dig Up<br>
+:heavy_check_mark: GNN, CNN modeling<br>
