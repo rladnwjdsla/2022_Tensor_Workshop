@@ -15,6 +15,7 @@ Object Detection을 사용하여 영상에서 사람이 입은 옷을 탐지하�
 
 ## :construction::Tentative Result(2022/10/30)
 * Custom Dataset
+출처 : https://universe.roboflow.com/cutegander/fashion-hkjfr/dataset/5
 ![DataSet](./img/dataset_example.PNG)
 * Train YOLOv5
 ![Model Training](./img/model_training.PNG)
